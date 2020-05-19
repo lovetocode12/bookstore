@@ -1,0 +1,314 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Orders List Component Component should render correctly 1`] = `
+<styled.div>
+  <div
+    className="flex-col order_container"
+    key="0"
+  >
+    <div
+      className="flex-row order_status"
+    >
+      <div>
+        Order Placed : 
+        Date
+      </div>
+      <div>
+        Status : 
+      </div>
+    </div>
+    <div
+      className="flex-row flex-wrap"
+    >
+      <div>
+        <img />
+      </div>
+      <div
+        className="flex-col book_details"
+      >
+        <div>
+          <span
+            className="mediumHeading"
+          />
+        </div>
+        <div>
+          Author Name  
+          <span
+            className="author_container"
+          />
+        </div>
+        <div>
+          Book Price 
+          <span
+            className="price"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="flex-col order_container"
+    key="1"
+  >
+    <div
+      className="flex-row order_status"
+    >
+      <div>
+        Order Placed : 
+        Date
+      </div>
+      <div>
+        Status : 
+      </div>
+    </div>
+    <div
+      className="flex-row flex-wrap"
+    >
+      <div>
+        <img />
+      </div>
+      <div
+        className="flex-col book_details"
+      >
+        <div>
+          <span
+            className="mediumHeading"
+          />
+        </div>
+        <div>
+          Author Name  
+          <span
+            className="author_container"
+          />
+        </div>
+        <div>
+          Book Price 
+          <span
+            className="price"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="flex-col order_container"
+    key="2"
+  >
+    <div
+      className="flex-row order_status"
+    >
+      <div>
+        Order Placed : 
+        Date
+      </div>
+      <div>
+        Status : 
+      </div>
+    </div>
+    <div
+      className="flex-row flex-wrap"
+    >
+      <div>
+        <img />
+      </div>
+      <div
+        className="flex-col book_details"
+      >
+        <div>
+          <span
+            className="mediumHeading"
+          />
+        </div>
+        <div>
+          Author Name  
+          <span
+            className="author_container"
+          />
+        </div>
+        <div>
+          Book Price 
+          <span
+            className="price"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="flex-col order_container"
+    key="3"
+  >
+    <div
+      className="flex-row order_status"
+    >
+      <div>
+        Order Placed : 
+        Date
+      </div>
+      <div>
+        Status : 
+      </div>
+    </div>
+    <div
+      className="flex-row flex-wrap"
+    >
+      <div>
+        <img />
+      </div>
+      <div
+        className="flex-col book_details"
+      >
+        <div>
+          <span
+            className="mediumHeading"
+          />
+        </div>
+        <div>
+          Author Name  
+          <span
+            className="author_container"
+          />
+        </div>
+        <div>
+          Book Price 
+          <span
+            className="price"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="flex-col order_container"
+    key="4"
+  >
+    <div
+      className="flex-row order_status"
+    >
+      <div>
+        Order Placed : 
+        Date
+      </div>
+      <div>
+        Status : 
+      </div>
+    </div>
+    <div
+      className="flex-row flex-wrap"
+    >
+      <div>
+        <img />
+      </div>
+      <div
+        className="flex-col book_details"
+      >
+        <div>
+          <span
+            className="mediumHeading"
+          />
+        </div>
+        <div>
+          Author Name  
+          <span
+            className="author_container"
+          />
+        </div>
+        <div>
+          Book Price 
+          <span
+            className="price"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="flex-col order_container"
+    key="5"
+  >
+    <div
+      className="flex-row order_status"
+    >
+      <div>
+        Order Placed : 
+        Date
+      </div>
+      <div>
+        Status : 
+      </div>
+    </div>
+    <div
+      className="flex-row flex-wrap"
+    >
+      <div>
+        <img />
+      </div>
+      <div
+        className="flex-col book_details"
+      >
+        <div>
+          <span
+            className="mediumHeading"
+          />
+        </div>
+        <div>
+          Author Name  
+          <span
+            className="author_container"
+          />
+        </div>
+        <div>
+          Book Price 
+          <span
+            className="price"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="flex-col order_container"
+    key="6"
+  >
+    <div
+      className="flex-row order_status"
+    >
+      <div>
+        Order Placed : 
+        Date
+      </div>
+      <div>
+        Status : 
+      </div>
+    </div>
+    <div
+      className="flex-row flex-wrap"
+    >
+      <div>
+        <img />
+      </div>
+      <div
+        className="flex-col book_details"
+      >
+        <div>
+          <span
+            className="mediumHeading"
+          />
+        </div>
+        <div>
+          Author Name  
+          <span
+            className="author_container"
+          />
+        </div>
+        <div>
+          Book Price 
+          <span
+            className="price"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</styled.div>
+`;

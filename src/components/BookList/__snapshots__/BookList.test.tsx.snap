@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookList Component Component should render correctly 1`] = `
+<Fragment>
+  <styled.div>
+    0
+  </styled.div>
+  <styled.div
+    onClick={[Function]}
+  >
+    Show More
+  </styled.div>
+</Fragment>
+`;

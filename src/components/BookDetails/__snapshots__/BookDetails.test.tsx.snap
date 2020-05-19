@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookDetails Component Component should render correctly 1`] = `
+<styled.div>
+  <styled.div>
+    <styled.img
+      alt="Unlocking Android"
+      src="https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg"
+    />
+  </styled.div>
+  <styled.div>
+    <div>
+      <styled.h2>
+        Unlocking Android
+      </styled.h2>
+    </div>
+    <div>
+      25
+    </div>
+    <div>
+      W. Frank Ableson
+    </div>
+    <div>
+      416
+    </div>
+    <styled.div>
+      <styled.button
+        onClick={[Function]}
+      >
+        Add To Cart
+      </styled.button>
+      <styled.button
+        onClick={[Function]}
+      >
+        Buy Now
+      </styled.button>
+    </styled.div>
+    <styled.p>
+       
+      Unlocking Android: A Developer's Guide provides concise, hands-on instruction for the Android operating system and development tools. This book teaches important architectural concepts in a straightforward writing style and builds on this with practical and useful examples throughout.
+       
+    </styled.p>
+  </styled.div>
+</styled.div>
+`;

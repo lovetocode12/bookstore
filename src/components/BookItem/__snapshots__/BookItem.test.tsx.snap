@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookList Component Component should render correctly 1`] = `
+<styled.div>
+  <styled.div
+    onClick={[Function]}
+  >
+    <styled.img
+      alt="Flex on Java"
+      src="https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allmon.jpg"
+    />
+  </styled.div>
+  <styled.div>
+    <styled.h4>
+      Flex on Java
+    </styled.h4>
+    <styled.p>
+       
+      Software Solutions Ltd.
+       
+    </styled.p>
+    <styled.div>
+      <styled.button
+        onClick={[Function]}
+      >
+        Buy Now
+      </styled.button>
+      <styled.button
+        onClick={[Function]}
+      >
+        Add To Cart
+      </styled.button>
+    </styled.div>
+  </styled.div>
+</styled.div>
+`;

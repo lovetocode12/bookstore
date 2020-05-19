@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar Component Component should render correctly 1`] = `
+<Fragment>
+  <div
+    className="header-title"
+  >
+    <Link
+      to="/"
+    >
+      <h2>
+        BOOKS STORE 
+      </h2>
+    </Link>
+  </div>
+  <div
+    className="nav-container"
+  >
+    <nav
+      className="nav"
+    >
+      <ul
+        className="nav-list"
+      >
+        <li
+          className="nav-item"
+        >
+          <Link
+            className="nav-link"
+            to="/"
+          >
+            Home
+          </Link>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <Link
+            className="nav-link"
+            to="/orders"
+          >
+            My Orders
+          </Link>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <Link
+            className="nav-link"
+            to="/cart"
+          >
+            Cart : 
+            <Component />
+            <Component />
+            <Component />
+            <Component />
+            <Component />
+            <Component />
+            <Component />
+          </Link>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</Fragment>
+`;

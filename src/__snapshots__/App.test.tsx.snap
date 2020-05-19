@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component should render correctly 1`] = `
+<Provider
+  store={
+    Object {
+      "dispatch": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+      Symbol(observable): [Function],
+    }
+  }
+>
+  <PersistGate
+    loading={null}
+    persistor={
+      Object {
+        "dispatch": [Function],
+        "flush": [Function],
+        "getState": [Function],
+        "pause": [Function],
+        "persist": [Function],
+        "purge": [Function],
+        "replaceReducer": [Function],
+        "subscribe": [Function],
+        Symbol(observable): [Function],
+      }
+    }
+  >
+    <TitleProvider>
+      <BrowserRouter>
+        <div
+          className="app-container"
+        >
+          <header
+            className="header"
+          >
+            <Nav />
+          </header>
+          <main
+            className="main"
+          >
+            <ErrorBoundary>
+              <Switch>
+                <Route
+                  component={[Function]}
+                  exact={true}
+                  path="/"
+                />
+                <Route
+                  component={[Function]}
+                  exact={true}
+                  path="/details/:book_id"
+                />
+                <Route
+                  component={[Function]}
+                  exact={true}
+                  path="/orders"
+                />
+                <Route
+                  component={[Function]}
+                  exact={true}
+                  path="/cart"
+                />
+              </Switch>
+            </ErrorBoundary>
+          </main>
+        </div>
+      </BrowserRouter>
+    </TitleProvider>
+  </PersistGate>
+</Provider>
+`;
